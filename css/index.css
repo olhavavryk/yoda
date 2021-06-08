@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Sigmar+One&display=swap');
+h1 {
+    margin:10px;
+    border:3px solid salmon;
+    font-family: 'Sigmar One', cursive;
+}
+img {
+    width:300px;
+    border:1px solid black;
+}
+
+.chosen {
+border-color: red;
+}
+#chosen {
+    border-color: yellow;
+}
+p {
+    text-decoration: underline;
+}
